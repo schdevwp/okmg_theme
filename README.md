@@ -2,6 +2,10 @@
 
 A custom theme for Submitting form responses to Google Sheets
 
+## Setup
+
+- Download and install Composer by following the [official instructions](https://getcomposer.org/download/).
+- Open Terminal & run ``` composer install ```
 
 
 ## Documentation
